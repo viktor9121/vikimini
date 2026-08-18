@@ -1,0 +1,7 @@
+:root {
+  --bg: #000814;
+  --accent: #36f0ff;
+}
+html,body,#root { height:100%; margin:0; background:var(--bg); color:#dff; font-family:Inter, system-ui, Arial }
+.topbar { display:flex; justify-content:space-between; align-items:center; padding:12px 16px; background:linear-gradient(90deg,#021 0%, #041 100%); }
+button { cursor:pointer; }
