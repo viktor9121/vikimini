@@ -1,0 +1,28 @@
+{
+  "name": "vikimini",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.156.0",
+    "@react-three/fiber": "^8.12.0",
+    "@react-three/drei": "^9.58.0",
+    "@react-spring/three": "^9.6.2",
+    "face-api.js": "^0.22.2",
+    "@tensorflow/tfjs": "^4.10.0",
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "tesseract.js": "^4.0.2",
+    "meyda": "^5.4.0",
+    "localforage": "^1.10.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "vite-plugin-pwa": "^0.15.0"
+  }
+}
